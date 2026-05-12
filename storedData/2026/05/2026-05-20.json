@@ -141,8 +141,8 @@
       "name": "V.F. Corporation",
       "marketCap": "$7,426,178,250",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$0",
-      "noOfEsts": "9"
+      "epsForecast": "($0.01)",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "5/22/2025",
@@ -187,6 +187,17 @@
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.01",
       "noOfEsts": "10"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.02",
+      "time": "time-pre-market",
+      "symbol": "RLX",
+      "name": "RLX Technology Inc.",
+      "marketCap": "$3,252,774,645",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "5/19/2025",
@@ -235,23 +246,12 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.04",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "CDLR",
       "name": "Cadeler A/S",
       "marketCap": "$2,594,453,940",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "5/21/2025",
-      "lastYearEPS": "($0.07)",
-      "time": "time-not-supplied",
-      "symbol": "RAMP",
-      "name": "LiveRamp Holdings, Inc.",
-      "marketCap": "$1,917,734,280",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$0.29",
       "noOfEsts": "1"
     },
     {
